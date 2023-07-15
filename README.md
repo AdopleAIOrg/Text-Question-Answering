@@ -8,11 +8,11 @@ The Question Answering with DistilBERT application is a Python program that allo
 
 # Features
 
-> Question Answering: The application performs question answering on text using the DistilBERT model. It allows you to input a text and a related question and predicts the answer based on the model's analysis of the text.
+> **Question Answering:** The application performs question answering on text using the DistilBERT model. It allows you to input a text and a related question and predicts the answer based on the model's analysis of the text.
 
-> DistilBERT Model: The TextQA class uses the DistilBERT model, which is a smaller and faster variant of the original BERT model. It has been pretrained on a large corpus of text and fine-tuned for question answering tasks.
+> **DistilBERT Model:** The TextQA class uses the DistilBERT model, which is a smaller and faster variant of the original BERT model. It has been pretrained on a large corpus of text and fine-tuned for question answering tasks.
 
-> Streamlit Interface: The application provides a user-friendly interface using Streamlit, allowing you to enter the text and question interactively and view the predicted answer.
+> **Streamlit Interface:** The application provides a user-friendly interface using Streamlit, allowing you to enter the text and question interactively and view the predicted answer.
 
 
 # Installation
